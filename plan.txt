@@ -1,0 +1,3 @@
+Design Calculator UI
+Centralized Container for Calculator
+4 button per row and operator on the side clear button on the top 
